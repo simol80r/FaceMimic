@@ -14,6 +14,18 @@
 		40A50A2821436155006FB9B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40A50A2621436155006FB9B8 /* LaunchScreen.storyboard */; };
 		40A50A3321436155006FB9B8 /* FaceMatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A3221436155006FB9B8 /* FaceMatchTests.swift */; };
 		40A50A3E21436156006FB9B8 /* FaceMatchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A3D21436156006FB9B8 /* FaceMatchUITests.swift */; };
+		40A50A4C21436D50006FB9B8 /* ExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A4B21436D50006FB9B8 /* ExampleViewController.swift */; };
+		40A50A4D21436D50006FB9B8 /* ExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A4B21436D50006FB9B8 /* ExampleViewController.swift */; };
+		40A50A4E21436D50006FB9B8 /* ExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A4B21436D50006FB9B8 /* ExampleViewController.swift */; };
+		40A50A5021436D84006FB9B8 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A4F21436D84006FB9B8 /* CameraViewController.swift */; };
+		40A50A5121436D84006FB9B8 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A4F21436D84006FB9B8 /* CameraViewController.swift */; };
+		40A50A5221436D84006FB9B8 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A4F21436D84006FB9B8 /* CameraViewController.swift */; };
+		40A50A5421436DA4006FB9B8 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A5321436DA4006FB9B8 /* ResultsViewController.swift */; };
+		40A50A5521436DA4006FB9B8 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A5321436DA4006FB9B8 /* ResultsViewController.swift */; };
+		40A50A5621436DA4006FB9B8 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A5321436DA4006FB9B8 /* ResultsViewController.swift */; };
+		40A50A5821436DD5006FB9B8 /* EndViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A5721436DD5006FB9B8 /* EndViewController.swift */; };
+		40A50A5921436DD5006FB9B8 /* EndViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A5721436DD5006FB9B8 /* EndViewController.swift */; };
+		40A50A5A21436DD5006FB9B8 /* EndViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A5721436DD5006FB9B8 /* EndViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +59,10 @@
 		40A50A3921436156006FB9B8 /* FaceMatchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FaceMatchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40A50A3D21436156006FB9B8 /* FaceMatchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceMatchUITests.swift; sourceTree = "<group>"; };
 		40A50A3F21436156006FB9B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40A50A4B21436D50006FB9B8 /* ExampleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExampleViewController.swift; sourceTree = "<group>"; };
+		40A50A4F21436D84006FB9B8 /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		40A50A5321436DA4006FB9B8 /* ResultsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		40A50A5721436DD5006FB9B8 /* EndViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EndViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +116,10 @@
 				40A50A1D21436154006FB9B8 /* AppDelegate.swift */,
 				40A50A1F21436154006FB9B8 /* ViewController.swift */,
 				40A50A2121436155006FB9B8 /* Main.storyboard */,
+				40A50A5721436DD5006FB9B8 /* EndViewController.swift */,
+				40A50A5321436DA4006FB9B8 /* ResultsViewController.swift */,
+				40A50A4F21436D84006FB9B8 /* CameraViewController.swift */,
+				40A50A4B21436D50006FB9B8 /* ExampleViewController.swift */,
 				40A50A2421436155006FB9B8 /* Assets.xcassets */,
 				40A50A2621436155006FB9B8 /* LaunchScreen.storyboard */,
 				40A50A2921436155006FB9B8 /* Info.plist */,
@@ -259,8 +279,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40A50A5821436DD5006FB9B8 /* EndViewController.swift in Sources */,
 				40A50A2021436154006FB9B8 /* ViewController.swift in Sources */,
+				40A50A5021436D84006FB9B8 /* CameraViewController.swift in Sources */,
 				40A50A1E21436154006FB9B8 /* AppDelegate.swift in Sources */,
+				40A50A5421436DA4006FB9B8 /* ResultsViewController.swift in Sources */,
+				40A50A4C21436D50006FB9B8 /* ExampleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +293,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				40A50A3321436155006FB9B8 /* FaceMatchTests.swift in Sources */,
+				40A50A5921436DD5006FB9B8 /* EndViewController.swift in Sources */,
+				40A50A4D21436D50006FB9B8 /* ExampleViewController.swift in Sources */,
+				40A50A5121436D84006FB9B8 /* CameraViewController.swift in Sources */,
+				40A50A5521436DA4006FB9B8 /* ResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +305,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				40A50A3E21436156006FB9B8 /* FaceMatchUITests.swift in Sources */,
+				40A50A5A21436DD5006FB9B8 /* EndViewController.swift in Sources */,
+				40A50A4E21436D50006FB9B8 /* ExampleViewController.swift in Sources */,
+				40A50A5221436D84006FB9B8 /* CameraViewController.swift in Sources */,
+				40A50A5621436DA4006FB9B8 /* ResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

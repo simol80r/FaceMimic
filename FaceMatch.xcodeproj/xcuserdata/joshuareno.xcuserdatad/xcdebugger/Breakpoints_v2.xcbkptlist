@@ -10,13 +10,75 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceMatch/ResultsViewController.swift"
-            timestampString = "558096515.2474329"
+            timestampString = "558103033.179471"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
             endingLineNumber = "16"
             landmarkName = "ResultsViewController"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.yourImageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.739225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.yourImageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.7414089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FaceMatch.ResultsViewController"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.74383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceMatch.ResultsViewController&gt;"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.746021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -26,13 +88,75 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceMatch/ResultsViewController.swift"
-            timestampString = "558096517.037431"
+            timestampString = "558103033.179891"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "18"
             endingLineNumber = "18"
             landmarkName = "ResultsViewController"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.pointsAddLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.7642519"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.pointsAddLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.766546"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FaceMatch.ResultsViewController"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.768837"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceMatch.ResultsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceMatch.ResultsViewController&gt;"
+                  moduleName = "FaceMatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuareno/Desktop/FaceMimic/FaceMatch/ResultsViewController.swift"
+                  timestampString = "558103772.771099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

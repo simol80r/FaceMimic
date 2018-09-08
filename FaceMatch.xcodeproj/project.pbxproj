@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4050D55E21438C7400130816 /* AI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050D55D21438C7400130816 /* AI.swift */; };
 		40A50A1E21436154006FB9B8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A1D21436154006FB9B8 /* AppDelegate.swift */; };
 		40A50A2021436154006FB9B8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A50A1F21436154006FB9B8 /* ViewController.swift */; };
 		40A50A2321436155006FB9B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40A50A2121436155006FB9B8 /* Main.storyboard */; };
@@ -46,6 +47,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4050D55D21438C7400130816 /* AI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AI.swift; sourceTree = "<group>"; };
 		40A50A1A21436154006FB9B8 /* FaceMatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceMatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40A50A1D21436154006FB9B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		40A50A1F21436154006FB9B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				40A50A1D21436154006FB9B8 /* AppDelegate.swift */,
 				40A50A1F21436154006FB9B8 /* ViewController.swift */,
 				40A50A2121436155006FB9B8 /* Main.storyboard */,
+				4050D55D21438C7400130816 /* AI.swift */,
 				40A50A5721436DD5006FB9B8 /* EndViewController.swift */,
 				40A50A5321436DA4006FB9B8 /* ResultsViewController.swift */,
 				40A50A4F21436D84006FB9B8 /* CameraViewController.swift */,
@@ -279,6 +282,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4050D55E21438C7400130816 /* AI.swift in Sources */,
 				40A50A5821436DD5006FB9B8 /* EndViewController.swift in Sources */,
 				40A50A2021436154006FB9B8 /* ViewController.swift in Sources */,
 				40A50A5021436D84006FB9B8 /* CameraViewController.swift in Sources */,
@@ -539,6 +543,7 @@
 				40A50A4421436156006FB9B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40A50A4521436156006FB9B8 /* Build configuration list for PBXNativeTarget "FaceMatchTests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +552,7 @@
 				40A50A4721436156006FB9B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40A50A4821436156006FB9B8 /* Build configuration list for PBXNativeTarget "FaceMatchUITests" */ = {
 			isa = XCConfigurationList;
@@ -555,6 +561,7 @@
 				40A50A4A21436156006FB9B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
